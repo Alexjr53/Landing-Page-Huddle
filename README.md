@@ -31,8 +31,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solução URL: [Hunddle Landing Page - Frontend mentor](https://your-solution-url.com)
-- URL: [Hunddle Landing Page](https://your-live-site-url.com) 
+- Solução URL: [Hunddle Landing Page - Frontend mentor](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-l1Q2Hg1G-l)
+- URL: [Hunddle Landing Page](https://alexjr53.github.io/Landing-Page-Huddle/) 
 
 ## Meu processo
 
