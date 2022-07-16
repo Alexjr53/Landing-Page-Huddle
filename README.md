@@ -31,7 +31,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solução URL: [Hunddle Landing Page - Frontend mentor](hhttps://www.frontendmentor.io/solutions/hunddle-landing-page-bdwpWxN-zx)
+- Solução URL: [Hunddle Landing Page - Frontend mentor](https://www.frontendmentor.io/solutions/hunddle-landing-page-bdwpWxN-zx)
 - URL: [Hunddle Landing Page](https://alexjr53.github.io/Landing-Page-Huddle/) 
 
 ## Meu processo
