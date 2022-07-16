@@ -9,7 +9,7 @@ Esta é uma solução para o [Huddle landing page com desafio de seção introdu
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Meu processo](#meu-processo)
-  - [Tecnologias](#Tecnologias)
+  - [Tecnologias utilizadas](#tecnologias-utilizadas)
   - [Desenvolvimento](#desenvolvimento)
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
