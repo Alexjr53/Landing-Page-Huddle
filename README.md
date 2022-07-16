@@ -31,7 +31,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solução URL: [Hunddle Landing Page - Frontend mentor](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-l1Q2Hg1G-l)
+- Solução URL: [Hunddle Landing Page - Frontend mentor](hhttps://www.frontendmentor.io/solutions/hunddle-landing-page-bdwpWxN-zx)
 - URL: [Hunddle Landing Page](https://alexjr53.github.io/Landing-Page-Huddle/) 
 
 ## Meu processo
@@ -50,5 +50,5 @@ Atualmente estou usando desafios do frontend mentor apenas para praticar, aprimo
 - GitHub - [Alexjr53](https://github.com/Alexjr53)
 - Frontend Mentor - [@Alexjr53](https://www.frontendmentor.io/profile/Alexjr53)
 
-## Acknowledgments
+## Agradecimentos
 Agradecimentos a equipe [Dev em Dobro](https://www.instagram.com/devemdobro/) que sugeriu a realização desse projeto como método de prática dos processos e conceitos ensinados ao longo do curso mentoreado por eles. 
