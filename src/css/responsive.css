@@ -1,0 +1,92 @@
+@media (max-width: 768px){
+    body{
+        background: hsl(257, 40%, 49%) url(../images/bg-mobile.svg) center center no-repeat;
+        background-size: cover;
+    }
+    .logo a img{
+        margin-top: 4rem;
+        width: 15rem;
+    }
+    main {
+        flex-direction: column;
+        align-items: center;
+        margin: 3rem 5rem;
+    }
+
+    .container-image{
+        margin: 3rem 1rem 0;
+    }
+
+    .container-info{
+        padding: 0;
+        max-width: 40rem;
+        margin-top: 4rem;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .container-info h1{
+        font-size: 3rem;
+    }
+
+    .container-info p{
+        font-size: 2rem;
+        line-height: 3.5rem;
+        margin: 1.5rem 0 0;
+    }
+
+    .container-info .btn{
+        align-self: center;
+        padding: 1.4rem 9rem;
+        font-size: 1.7rem;
+        margin-top: 4rem;
+    }
+
+    .social{
+        justify-content: center;
+        margin: 3rem 0;
+        min-height: 10rem;
+    }
+
+    .social a{
+        width: 3.3rem;
+        height: 3.3rem;
+    }
+
+    .social a i{
+        font-size: 1.6rem;
+    }
+}
+
+@media (max-width: 475px){
+    .container-info h1{
+        font-size: 2.6rem;
+    }
+
+    .container-info p{
+       font-size: 1.7rem;
+    }
+
+    .container-info .btn{
+        padding: 1.2rem 8rem;
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 385px){
+    .container-info h1{
+        font-size: 2.2rem;
+    }
+
+    .container-info p{
+        font-size: 1.6rem;
+    }
+
+    .container-info .btn{
+        padding: 1.1rem 7rem;
+    }
+
+    .social a i{
+        font-size: 1.4rem;
+    }
+}

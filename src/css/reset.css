@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    font-weight: 400;
+    color: #fff;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}

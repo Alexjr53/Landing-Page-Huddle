@@ -1,0 +1,114 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background: hsl(257, 40%, 49%) url(../images/bg-desktop.svg) center center no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: grid;
+    grid-template-areas: "header header"
+                         "main main"
+                         "footer footer";
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(3,1fr);
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.logo{
+    grid-area: header;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.logo a img{
+    margin-left: 6rem;
+    width: 21rem;
+}
+
+main{
+    grid-area: main;
+    display: flex;
+    justify-content: center;
+}
+
+.container-image{
+    align-self: center;
+    margin-left: 5rem;
+}
+
+.container-image img{
+    width: 100%;
+}
+
+.container-info{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 4.3rem 4rem;
+    margin-left: 1rem;
+    max-width: 60rem;
+}
+
+.container-info h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 4rem;
+}
+
+.container-info p{
+    font-size: 1.8rem;
+    margin: 2rem 0;
+    line-height: 2.7rem;
+}
+
+.container-info .btn{
+    background-color: #fff;
+    color: hsl(257, 40%, 49%);
+    font-size: 2rem;
+    padding: 1.5rem 6.4rem;
+    align-self: flex-start;
+    border-radius: 5rem;
+    transition: 0.3s;
+    box-shadow: 1px 5px 10px #00000073;
+}
+
+.container-info .btn:hover{
+    background-color: var(--interaction-color);
+    color: #fff;
+}
+
+.social{
+    grid-area: footer;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 7rem;
+}
+
+.social a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #fff;
+    border-radius: 5rem;
+    width: 4rem;
+    height: 4rem;
+    margin: 2rem 0.7rem;
+    transition: 0.3s;
+}
+
+.social a i{
+    font-size: 2rem;
+    transition: 0.3s;
+}
+
+.social a:hover{
+    border-color: var(--interaction-color);
+}
+
+.social a:hover i{
+    color: var(--interaction-color);
+}
