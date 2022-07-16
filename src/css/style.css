@@ -19,6 +19,7 @@ body{
 
 .logo{
     grid-area: header;
+    margin-top: 6rem;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -27,14 +28,13 @@ body{
 .logo a img{
     margin-left: 6rem;
     width: 21rem;
-    margin-top: 6rem;
 }
 
 main{
     grid-area: main;
     display: flex;
     justify-content: center;
-    margin-top: 9rem;
+    margin-top: 8rem;
 }
 
 .container-image{
@@ -63,7 +63,7 @@ main{
 
 .container-info p{
     font-size: 1.8rem;
-    margin: 2rem 0;
+    margin-top: 2rem;
     line-height: 2.7rem;
 }
 
@@ -72,6 +72,7 @@ main{
     color: hsl(257, 40%, 49%);
     font-size: 2rem;
     padding: 1.5rem 6.4rem;
+    margin-top: 2rem;
     align-self: flex-start;
     border-radius: 5rem;
     transition: 0.3s;
@@ -88,6 +89,7 @@ main{
     display: flex;
     justify-content: flex-end;
     margin-right: 7rem;
+    margin-top: 3rem;
 }
 
 .social a{
@@ -98,7 +100,7 @@ main{
     border-radius: 5rem;
     width: 4rem;
     height: 4rem;
-    margin: 2rem 0.7rem;
+    margin-left: 1.4rem;
     transition: 0.3s;
 }
 
