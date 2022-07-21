@@ -2,6 +2,8 @@
 
 Esta é uma solução para o [Huddle landing page com desafio de seção introdutória única no Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
+[![NPM](https://img.shields.io/bower/l/MI)](https://github.com/Alexjr53/Landing-Page-Huddle/blob/main/LICENSE)
+
 ## Índice
 
 - [Visão geral](#visão-geral)
