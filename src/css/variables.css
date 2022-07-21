@@ -1,3 +1,4 @@
 :root{
-    --interaction-color: hsl(300, 69%, 71%)
+    --primary-medium-color: hsl(257, 40%, 49%);
+    --primary-soft-color: hsl(300, 69%, 71%);
 }

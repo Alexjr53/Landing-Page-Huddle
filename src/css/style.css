@@ -4,7 +4,7 @@ html{
 
 body{
     font-family: 'Open Sans', sans-serif;
-    background: hsl(257, 40%, 49%) url(../images/bg-desktop.svg) center center no-repeat;
+    background: var(--primary-medium-color) url(../images/bg-desktop.svg) center no-repeat;
     background-size: cover;
     height: 100vh;
     display: grid;
@@ -69,7 +69,7 @@ main{
 
 .container-info .btn{
     background-color: #fff;
-    color: hsl(257, 40%, 49%);
+    color: var(--primary-medium-color);
     font-size: 2rem;
     padding: 1.5rem 6.4rem;
     margin-top: 2rem;
@@ -80,7 +80,7 @@ main{
 }
 
 .container-info .btn:hover{
-    background-color: var(--interaction-color);
+    background-color: var(--primary-soft-color);
     color: #fff;
 }
 
@@ -110,9 +110,9 @@ main{
 }
 
 .social a:hover{
-    border-color: var(--interaction-color);
+    border-color: var(--primary-soft-color);
 }
 
 .social a:hover i{
-    color: var(--interaction-color);
+    color: var(--primary-soft-color);
 }
