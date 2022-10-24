@@ -1,6 +1,6 @@
-# Frontend Mentor - Solução da landing page Huddle com uma única seção introdutória
+# Desafio Frontend Mentor - Solução da landing page Huddle com uma única seção introdutória
 
-Esta é uma solução para o [Huddle landing page com desafio de seção introdutória única no Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+Esta é uma solução para o [Desafio Huddle landing page com seção introdutória única do Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
 [![NPM](https://img.shields.io/bower/l/MI)](https://github.com/Alexjr53/Landing-Page-Huddle/blob/main/LICENSE)
 
@@ -27,14 +27,14 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 #### Desktop
-![desktop](src/images/Screenshot-desktop.png)
+![desktop](src/design/screenshot-desktop.png)
 #### Mobile
-<img src="src/images/Screenshot-mobile.png" width=300px/>
+<img src="src/design/screenshot-mobile.png" width=300px/>
 
 ### Links
 
-- Solução URL: [Hunddle Landing Page - Frontend mentor](https://www.frontendmentor.io/solutions/hunddle-landing-page-bdwpWxN-zx)
-- URL: [Hunddle Landing Page](https://alexjr53.github.io/Landing-Page-Huddle/) 
+- Solução do desafio: [Hunddle Landing Page - Frontend mentor](https://www.frontendmentor.io/solutions/hunddle-landing-page-bdwpWxN-zx)
+- URL da página: [Hunddle Landing Page](https://alexjr53.github.io/Landing-Page-Huddle/) 
 
 ## Meu processo
 
