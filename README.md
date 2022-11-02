@@ -1,4 +1,4 @@
-# Desafio Frontend Mentor - Solução da landing page Huddle com uma única seção introdutória
+# Desafio do Frontend Mentor - Solução da landing page Huddle com uma única seção introdutória
 
 Esta é uma solução para o [Desafio Huddle landing page com seção introdutória única do Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
@@ -33,8 +33,9 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solução do desafio: [Hunddle Landing Page - Frontend mentor](https://www.frontendmentor.io/solutions/hunddle-landing-page-bdwpWxN-zx)
+- Solução do desafio no frontend mentor: [Hunddle Landing Page - Frontend mentor](https://www.frontendmentor.io/solutions/hunddle-landing-page-bdwpWxN-zx)
 - URL da página: [Hunddle Landing Page](https://alexjr53.github.io/Landing-Page-Huddle/) 
+- Repositório do projeto no GitHub: [Hunddle Landing Page](https://github.com/Alexjr53/Landing-Page-Huddle)
 
 ## Meu processo
 
