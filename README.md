@@ -16,7 +16,7 @@ Esta é uma solução para o [Desafio Huddle landing page com seção introdutó
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
-  ## Visão geral
+## Visão geral
 
 ### Desafio
 
